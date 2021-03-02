@@ -1,4 +1,5 @@
 # Pequenos projetos em JS:
+<p> Para testar os códigos, use o console do navegador (F12 para Google Chrome). </p>
 
 ## 1. [ascii-to-string.js](https://github.com/royalfelep/javascript/blob/main/projetinhos/ascii-to-string.js)
 <p> Este código recebe uma string formada por números da tabela ascii invertidos (exemplo: 001801411111782311180180110127 = dlroW olleH [Hello World]) via 'prompt'. Então, ele inverte a string recebida e inicia sua decodificação, de ASCII para CHAR. Ao final, sua frase decodificada será exibida via 'alert'.</p>
