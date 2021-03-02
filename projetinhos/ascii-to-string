@@ -1,7 +1,8 @@
 // Teste Nós Codamos - NUBANK
 
 // EncodedString recebe como parâmetro frase formada por números da tabela ascii invertidos
-encodedString = prompt('Qual código invertido ascii deseja converter?'); // recebe parâmetro
+encodedString = prompt('Qual código invertido ascii deseja converter?\n(Zeros a esquerda não são permitidos)'); // recebe parâmetro
+
 decode(encodedString); // inicializa a função
 
 function decode(encodedString) {
@@ -32,8 +33,3 @@ function decode(encodedString) {
     }
  return console.log(str);
 }
-
-/*
- 33795010012390111166 | "Bom dia!" invertido
- 101211501801101070 | "Felipe" invertido, porém com primeiro termo igual a 0 - teste de validação
- */
