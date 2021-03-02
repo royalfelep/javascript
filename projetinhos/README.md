@@ -11,7 +11,7 @@
       </ul>
   </p>
 
-## 2. [FizzBuzz](https://github.com/royalfelep/javascript/blob/main/projetinhos/FizzBuzz.js)
+## 2. [FizzBuzz](https://github.com/royalfelep/javascript/blob/main/projetinhos/fizzbuzz.js)
 <p> Este código recebe um número qualquer via 'prompt'. O script então entra em um loop, que se inicia em i = 1 e vai até o número recebido. Então o programa faz a verificação para cada número i. Se ele for divisível por 5 e por 3, ele te retornará "FizzBuzz". Se for divisível apenas por 3, retornará "Fizz". Se for divisível apenas por 5, retornará "Buzz". Por fim, se nenhum dos casos anteriores for atendido, ele retornará apenas o valor i e continuará as verificações até alcançar o valor que foi recebido via 'alert'. </p>
 
 ## 3. [bhaskara-calculator](https://github.com/royalfelep/javascript/blob/main/projetinhos/bhaskara-calculator.js)
