@@ -31,5 +31,5 @@ function decode(encodedString) {
            a+=2; //Incremento de 2 digitos para mover ao próximo bloco.
        }  
     }
- return console.log(str);
+ return alert('Sua frase decodificada é: ' + str);
 }
