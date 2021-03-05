@@ -20,7 +20,6 @@ function tratarErro(erro){
 }
 
 function screaming (pessoa){
-
     try{
         // Erro na chamada de parâmetro do objeto. (Trocar 'name' para 'nome')
         console.log(pessoa.name.toUpperCase()) 
@@ -31,7 +30,6 @@ function screaming (pessoa){
     finally { // sempre executa, funcionando ou não
         empresaInfo()
      }
-
 }
 
 const pessoa = {
