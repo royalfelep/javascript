@@ -1,4 +1,4 @@
-# Pequenos projetos em JS:
+# ![Javascript](https://user-images.githubusercontent.com/73192682/110265753-0e35d700-7f9b-11eb-8d2a-ea2b024daa56.jpg) Pequenos projetos em JS:
 <p> Para testar os códigos, use o console do navegador (F12 para Google Chrome). </p>
 
 ## 1. [ascii-to-string.js](https://github.com/royalfelep/javascript/blob/main/projetinhos/ascii-to-string.js)
